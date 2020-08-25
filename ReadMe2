@@ -1,0 +1,4 @@
+ The SVM_classifier model uses linear kernel where as SVM_rbf uses
+ GUssian Radial Basis function. We can see little difference in the accuracy 
+ score of the 2. But for some cases there may be significant difference
+ in model accuracy based in kenel selected to build the model.
